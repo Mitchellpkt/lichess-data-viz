@@ -1,3 +1,8 @@
+# 1) pip install -r requirements.txt
+# 2) replace `token` with your API token
+# 3) run this script
+# 4) use the analysis script in the ipynb notebook
+
 from lichess_client import APIClient
 import pandas as pd
 
