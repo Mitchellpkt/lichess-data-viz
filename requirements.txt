@@ -1,0 +1,8 @@
+numpy
+matplotlib
+pandas
+isthmuslib
+jupyter
+# seaborn
+asyncio
+async-lichess-sdk
