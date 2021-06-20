@@ -2,7 +2,7 @@ from lichess_client import APIClient
 import pandas as pd
 
 token: str = "... YOUR API TOKEN HERE ..."  # DON'T FORGET TO DELETE BEFORE COMMITTING
-output_path: str = "puzzle_history_2.csv"
+output_path: str = "puzzle_history.csv"
 
 # retrieve data
 client = APIClient(token=token)
